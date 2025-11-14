@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/open-api-data-viewer-225729-225738/frontend_react_app"
+}
